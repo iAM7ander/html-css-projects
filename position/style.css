@@ -1,12 +1,12 @@
-#box1{
-    width: 200px;
-    height: 200px;
-    background-color: hsl(194, 100%, 50%);
-    position: static;
+#box1 {
+	width: 200px;
+	height: 200px;
+	background-color: hsl(194, 100%, 50%);
+	position: static;
 }
-#box2{
-    width: 100px;
-    height: 100px;
-    background-color: hsl(19, 100%, 50%);
-    position: absolute;
+#box2 {
+	width: 100px;
+	height: 100px;
+	background-color: hsl(19, 100%, 50%);
+	position: absolute;
 }

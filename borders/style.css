@@ -1,14 +1,14 @@
-h1{
-    border-style: outset;
-    border-width: 3px;
-    border-color: blueviolet;
-    border-radius: 20px;
+h1 {
+	border-style: outset;
+	border-width: 3px;
+	border-color: blueviolet;
+	border-radius: 20px;
 }
-p{
-    border-bottom: 3px solid rebeccapurple;
-    border-top: 3px solid greenyellow;
-    border-left: 3px dotted red;
-    border-right: 3px dotted orangered;
+p {
+	border-bottom: 3px solid rebeccapurple;
+	border-top: 3px solid greenyellow;
+	border-left: 3px dotted red;
+	border-right: 3px dotted orangered;
 
-    border-radius: 10px;
+	border-radius: 10px;
 }
